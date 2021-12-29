@@ -1,0 +1,7 @@
+flask
+flask_sqlalchemy
+flask_restful
+flask_httpauth
+psycopg2-binary
+pytest
+python-decouple
