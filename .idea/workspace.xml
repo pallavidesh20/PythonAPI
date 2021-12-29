@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1bec6c1-bb97-4c6e-a2e2-176a7f437eca" name="Default Changelist" comment="" />
+    <list default="true" id="e1bec6c1-bb97-4c6e-a2e2-176a7f437eca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/UserSkill_ApI/.idea/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserSkill_ApI/.idea/app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,11 @@
       <list>
         <option value="pallavidesh20 &lt;96807393+pallavidesh20@users.noreply.github.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
@@ -66,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640751569134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding project to git repo">
+      <created>1640751829884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640751829884</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

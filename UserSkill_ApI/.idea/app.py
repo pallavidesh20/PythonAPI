@@ -26,3 +26,5 @@ def create_app(db_path):
 if __name__ == '__main__':
     app = create_app(DATABASE_URL_DEV)
     app.run(debug=True)
+
+#This is to test git process#
